@@ -18,7 +18,7 @@ Este é um projeto ReactJS que apresenta uma lista das top 20 criptomoedas do di
 
 Após iniciar o projeto, você será redirecionado para a página inicial que exibe a lista das top 20 criptomoedas do dia. Você pode clicar em uma criptomoeda para ver informações detalhadas sobre ela ou utilizar a barra de pesquisa para encontrar uma criptomoeda pelo seu símbolo.
 
-![Captura de tela do projeto]([https://ibb.co/KFs1RSN](https://i.ibb.co/NZN4Qb1/Captura-de-Tela-2024-03-07-a-s-22-00-21.png))
+![Captura de tela do projeto](https://i.ibb.co/NZN4Qb1/Captura-de-Tela-2024-03-07-a-s-22-00-21.png)
 
 ## Autor
 
