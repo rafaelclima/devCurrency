@@ -1,14 +1,20 @@
+import "./index.css";
+
+import { QueryClient, QueryClientProvider } from "react-query";
+
+import App from "./App.tsx";
 //import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./App.tsx";
-import "./index.css";
-import { QueryClientProvider, QueryClient } from "react-query";
 const client = new QueryClient();
 
-ReactDOM.createRoot(document.getElementById("root")!).render(
-  //<React.StrictMode>
-  <QueryClientProvider client={client}>
-    <App />
-  </QueryClientProvider>
-  //</React.StrictMode>
-);
+const rootElement = document.getElementById("root");
+
+if (rootElement) {
+	ReactDOM.createRoot(rootElement).render(
+		//<React.StrictMode>
+		<QueryClientProvider client={client}>
+			<App />
+		</QueryClientProvider>,
+		//</React.StrictMode>
+	);
+}
