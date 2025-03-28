@@ -38,9 +38,6 @@ Um aplicativo moderno em ReactJS que exibe **as top 20 criptomoedas** do dia e p
    - Clique em qualquer moeda para ver detalhes  
    - Use a barra de pesquisa para encontrar moedas específicas  
 
-## 📸 Demonstração  
-
-![Captura de Tela](https://i.ibb.co/NZN4Qb1/Captura-de-Tela-2024-03-07-a-s-22-00-21.png)  
 
 ## 👨‍💻 Autor  
 
