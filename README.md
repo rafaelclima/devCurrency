@@ -1,31 +1,51 @@
-# Crypto Currency
+# 💰 Crypto Currency Tracker 🚀  
 
-Este é um projeto ReactJS que apresenta uma lista das top 20 criptomoedas do dia, juntamente com a opção para o usuário pesquisar pelo símbolo da moeda desejada. Foi desenvolvido utilizando as seguintes tecnologias:
+A modern ReactJS application that displays the **top 20 cryptocurrencies** of the day and allows users to search for specific coins by their symbol. Built with cutting-edge technologies for a seamless experience.  
 
-- ReactJS
-- React Query
-- React Router Dom
-- Axios
-- TailwindCSS
+## 🛠 Technologies  
 
-## Funcionalidades
+<div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 16px 0;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+</div> 
 
-- Exibição da lista das top 20 criptomoedas do dia.
-- Pesquisa por símbolo da moeda para obter informações detalhadas sobre uma criptomoeda específica.
-- Apresentação de informações detalhadas, incluindo preço, valor de mercado, variação de preço nas últimas 24 horas, maior e menor preço nas últimas 24 horas.
+## ✨ Features  
 
-## Como usar
+- 📊 **Top 20 Cryptocurrencies** – Real-time ranking of the most relevant coins.  
+- 🔍 **Symbol Search** – Find any cryptocurrency by its symbol (e.g., BTC, ETH).  
+- 📈 **Detailed Insights** – Price, market cap, 24h variation, and high/low prices.  
+- ⚡ **Fast & Responsive** – Optimized performance with React Query.  
 
-Após iniciar o projeto, você será redirecionado para a página inicial que exibe a lista das top 20 criptomoedas do dia. Você pode clicar em uma criptomoeda para ver informações detalhadas sobre ela ou utilizar a barra de pesquisa para encontrar uma criptomoeda pelo seu símbolo.
+## 🚀 Getting Started  
 
-## PrintScreen
+1. **Clone the repo**  
+   ```sh
+   git clone https://github.com/rafaelclima/crypto-currency-tracker.git
+   ```
+2. **Install dependencies**  
+   ```sh
+   npm install
+   ```
+3. **Run the app**  
+   ```sh
+   npm start
+   ```
+4. **Explore!**  
+   - Browse the top 20 cryptos.  
+   - Click on any coin for detailed info.  
+   - Use the search bar to find specific coins.  
 
-![Captura de tela do projeto](https://i.ibb.co/NZN4Qb1/Captura-de-Tela-2024-03-07-a-s-22-00-21.png)
+## 📸 Preview  
 
-## Autor
+![Demo](https://i.ibb.co/NZN4Qb1/Captura-de-Tela-2024-03-07-a-s-22-00-21.png)  
 
-Este projeto foi desenvolvido por [Rafael Lima](https://github.com/rafaelclima).
+## 👨‍💻 Author  
 
-## Licença
+**[Rafael Lima](https://github.com/rafaelclima)** – Building cool stuff with React & more!  
 
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
+## 📜 License  
+
+This project is licensed under the **MIT License**
