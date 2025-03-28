@@ -4,7 +4,7 @@ Um aplicativo moderno em ReactJS que exibe **as top 20 criptomoedas** do dia e p
 
 ## 🛠 Tecnologias Utilizadas  
 
-<div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 16px 0;">
+<div data-badges>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
